@@ -6,7 +6,7 @@
 1. [Введение в ИИ](https://docs.google.com/presentation/d/1dx2stnxUa6GYqQQBuTxisBp8mACYdfOgVBIXdjWADjE/edit?usp=sharing)
 2. [Введение в машинное обучение](https://docs.google.com/presentation/d/18WmlK6gljKAznByxDwTiH0bMe6LFVIHrugWWBHcxGGU/edit?usp=sharing)
 3. [Python. Часть 1](https://docs.google.com/presentation/d/1yNVQOSOvJTO1HvdXJponkBBWtkyMwrJqQxPrBBVI4_g)
-4. [Python. Часть 2](https://docs.google.com/presentation/d/1fqQv35Gz4RElPvoR-1G79vkBg7l1aHayMBH45Z-IVtU и https://docs.google.com/presentation/d/1JkI3b0-XVK7E_YbagLgUYko8VoVr_Gqmp3VOfLzaaJE)
+4. Python. Часть 2. [Классы](https://docs.google.com/presentation/d/1fqQv35Gz4RElPvoR-1G79vkBg7l1aHayMBH45Z-IVtU) и [Функциональное программирование](https://docs.google.com/presentation/d/1JkI3b0-XVK7E_YbagLgUYko8VoVr_Gqmp3VOfLzaaJE)
 5. [Введение в Pandas, Numpy, графики](https://github.com/iu5team/iu5-da-2018/tree/master/pandas)
 
 ## Лабы:
