@@ -12,6 +12,7 @@
 ## Лабораторные работы:
 1. [Концептуальные карты](https://docs.google.com/document/d/1S038sJQU8nx6iOFU4il2dd9EOsMxpmK8rMhRLy0NksA/edit?usp=sharing) 
 2. [Python](https://github.com/iu5team/iu5-da-2018/blob/master/lab2.md) (Срок - до 30 марта включительно)
+3. [Линейная регрессия](https://github.com/iu5team/iu5-da-2018/blob/master/lab3/lab3.md) (Срок - до 13 апреля включительно)
 
 Лабораторные работы необходимо сдавать в течение четырех недель с выдачи.
 

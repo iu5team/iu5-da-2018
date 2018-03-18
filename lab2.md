@@ -29,7 +29,6 @@
 Построить гистограммы распределений с легендой и подписями осей с использованием библиотек
 [matplotlib](https://matplotlib.org/) или [seaborn](https://seaborn.pydata.org/)
 
-
 ###### Примечание
 Для выполнения заданий необходимо использовать функции [map, list, reduce, filter] (http://book.pythontips.com/en/latest/map_filter.html).
 Чтобы не писать все в одном файле можете установить [jupyter](http://jupyter.org).
