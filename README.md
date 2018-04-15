@@ -12,7 +12,7 @@
 ## Лабораторные работы:
 1. [Концептуальные карты](https://docs.google.com/document/d/1S038sJQU8nx6iOFU4il2dd9EOsMxpmK8rMhRLy0NksA/edit?usp=sharing) 
 2. [Python](https://github.com/iu5team/iu5-da-2018/blob/master/lab2.md) (Срок - до 3 апреля включительно)
-3. [Линейная регрессия](https://github.com/iu5team/iu5-da-2018/blob/master/lab3/lab3.md) (Срок - до 17 апреля включительно)
+3. [Линейная регрессия](https://github.com/iu5team/iu5-da-2018/blob/master/lab3/lab3.md) (Срок - **до 1 мая включительно**)
 4. [Логистическая регрессия](https://github.com/iu5team/iu5-da-2018/blob/master/lab4.md) (Срок - до 1 мая включительно)
 5. [Нейронные сети](https://github.com/iu5team/iu5-da-2018/blob/master/lab5/lab5.md) (Срок - до 15 мая включительно)
 
