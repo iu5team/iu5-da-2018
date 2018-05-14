@@ -8,6 +8,7 @@
 3. [Python. Часть 1](https://docs.google.com/presentation/d/1yNVQOSOvJTO1HvdXJponkBBWtkyMwrJqQxPrBBVI4_g)
 4. Python. Часть 2. [Классы](https://docs.google.com/presentation/d/1fqQv35Gz4RElPvoR-1G79vkBg7l1aHayMBH45Z-IVtU) и [Функциональное программирование](https://docs.google.com/presentation/d/1JkI3b0-XVK7E_YbagLgUYko8VoVr_Gqmp3VOfLzaaJE)
 5. [Введение в Pandas, Numpy, графики](https://github.com/iu5team/iu5-da-2018/tree/master/pandas)
+6. [Работа с текстами](https://docs.google.com/presentation/d/1sPRIO23zZBrs6vxbjXaIY3fIdHbJ6g3hP_ohQZCumAU/edit?usp=sharing)
 
 ## Лабораторные работы:
 1. [Концептуальные карты](https://docs.google.com/document/d/1S038sJQU8nx6iOFU4il2dd9EOsMxpmK8rMhRLy0NksA/edit?usp=sharing) 
@@ -15,6 +16,7 @@
 3. [Линейная регрессия](https://github.com/iu5team/iu5-da-2018/blob/master/lab3/lab3.md) (Срок - **до 1 мая включительно**)
 4. [Логистическая регрессия](https://github.com/iu5team/iu5-da-2018/blob/master/lab4.md) (Срок - до 1 мая включительно)
 5. [Нейронные сети](https://github.com/iu5team/iu5-da-2018/blob/master/lab5/lab5.md) (Срок - до 15 мая включительно)
+5. [Работа с текстами](https://github.com/iu5team/iu5-da-2018/blob/master/lab6/lab6.md) (Срок - до 5 июня включительно)
 
 Лабораторные работы необходимо сдавать в течение четырех недель с выдачи.
 
